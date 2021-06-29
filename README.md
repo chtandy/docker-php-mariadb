@@ -1,6 +1,6 @@
 ### 使用方式
-- git clone https://github.com/chtandy/docker-php-apache-demo.git
-- cd docker-php-apache-demo/deploy/study
+- git clone https://github.com/chtandy/docker-php-mariadb.git
+- cd docker-php-mariadb
 
 ### 啟動容器
 - docker-compose up -d
